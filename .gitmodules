@@ -1,0 +1,27 @@
+[submodule "tp-lab-1"]
+	path = tp-lab-1
+	url = https://github.com/ovorlova/tp-lab-1
+[submodule "tp-lab-2"]
+	path = tp-lab-2
+	url = https://github.com/ovorlova/tp-lab-2
+[submodule "tp-lab-3"]
+	path = tp-lab-3
+	url = https://github.com/ovorlova/tp-lab-3
+[submodule "tp-lab-4"]
+	path = tp-lab-4
+	url = https://github.com/ovorlova/tp-lab-4
+[submodule "tp-lab-5"]
+	path = tp-lab-5
+	url = https://github.com/ovorlova/tp-lab-5
+[submodule "tp-lab-6"]
+	path = tp-lab-6
+	url = https://github.com/ovorlova/tp-lab-6
+[submodule "tp-lab-7"]
+	path = tp-lab-7
+	url = https://github.com/ovorlova/tp-lab-7
+[submodule "tp-lab-8"]
+	path = tp-lab-8
+	url = https://github.com/ovorlova/tp-lab-8
+[submodule "tp-lab-9"]
+	path = tp-lab-9
+	url = https://github.com/ovorlova/tp-lab-9
