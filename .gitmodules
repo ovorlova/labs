@@ -22,3 +22,6 @@
 [submodule "tp-lab-9"]
 	path = tp-lab-9
 	url = https://github.com/ovorlova/tp-lab-9
+[submodule "tp-lab-1"]
+	path = tp-lab-1
+	url = https://github.com/ovorlova/tp-lab-1
